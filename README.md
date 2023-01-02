@@ -1,1 +1,1 @@
-# charguesser
+# boilerplate-react-functional-public
